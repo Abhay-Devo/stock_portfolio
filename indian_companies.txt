@@ -1,0 +1,15 @@
+Reliance Industries, RELIANCE.BO
+Tata Consultancy Services (TCS), TCS.BO
+Infosys, INFY.BO
+HDFC Bank, HDFCBANK.BO
+ICICI Bank, ICICIBANK.BO
+Hindustan Unilever, HINDUNILVR.BO
+State Bank of India (SBI), SBIN.BO
+Bharti Airtel, BHARTIARTL.BO
+Larsen & Toubro, LT.BO
+Kotak Mahindra Bank, KOTAKBANK.BO
+Axis Bank, AXISBANK.BO
+Mahindra & Mahindra, M&M.BO
+Bajaj Finance, BAJFINANCE.BO
+Wipro, WIPRO.BO
+Maruti Suzuki, MARUTI.BO

@@ -1,0 +1,15 @@
+Apple Inc, AAPL
+Microsoft Corporation, MSFT
+Amazon.com Inc, AMZN
+Google, GOOGL
+Facebook Inc, META
+Tesla Inc, TSLA
+NVIDIA Corporation, NVDA
+Johnson & Johnson, JNJ
+Visa Inc, V
+Procter & Gamble Co, PG
+Intel Corporation, INTC
+Netflix Inc, NFLX
+The Home Depot Inc, HD
+Berkshire Hathaway Inc, BRK.B
+Walmart Inc, WMT
